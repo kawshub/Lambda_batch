@@ -1,0 +1,10 @@
+account:
+  account_id: ''
+  region: 'ap-northeast-1'
+event:
+  schedule:
+    minute: '0'
+    hour: '0'
+    month: '*'
+    week_day: '*'
+    year: '*'
